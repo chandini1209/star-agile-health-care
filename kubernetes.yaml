@@ -12,7 +12,7 @@ spec:
   template:
     metadata:
       labels:
-        app: healthcare -eta-app
+        app: healthcare-eta-app
     spec:
       containers:
       - name: healthcare-eta-container
